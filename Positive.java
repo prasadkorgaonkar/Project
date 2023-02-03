@@ -8,7 +8,7 @@ public class Positive
 		if (a>=0)
 		{
 			System.out.print(a+" is a positive number");
-			System.out.println("Commited by Prasad");
+			System.out.println("Commited by Mohini");
 		}
 	
 	}
